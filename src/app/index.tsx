@@ -6,7 +6,7 @@ export default function App(){
   return(
     <View style={homeStyle.container}>
       <Text>Phuthares</Text>
-      <Text style={homeStyle.title}>Phuthares</Text>
+      <Text style={homeStyle.title}>Phuthares Jantasit</Text>
 
       {/* ใส่ภาพไฟล์ */}
       <Image
